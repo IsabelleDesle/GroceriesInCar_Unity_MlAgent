@@ -1,0 +1,15 @@
+# Environments
+.env
+.env*
+docker-compose_v*
+
+.vscode/
+Library/
+Logs/
+Temp/
+UserSettings/   
+
+.zip
+
+
+
