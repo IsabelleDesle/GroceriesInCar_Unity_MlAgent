@@ -22,9 +22,8 @@ AssetStore:
 - https://assetstore.unity.com/packages/tools/camera/free-fly-camera-140739
 
 
-<p float="center">
+<p align="center">
    <img src="https://raw.githubusercontent.com/IsabelleDesle/GroceriesInCar_Unity_MlAgent/main/loading03.gif" width="260" height="260" />  
    <img src="https://raw.githubusercontent.com/IsabelleDesle/GroceriesInCar_Unity_MlAgent/main/loading01.gif" width="260" height="260" />  
-  <img src="https://raw.githubusercontent.com/IsabelleDesle/GroceriesInCar_Unity_MlAgent/main/loading02.gif" width="260" height="260" />  
-
+   <img src="https://raw.githubusercontent.com/IsabelleDesle/GroceriesInCar_Unity_MlAgent/main/loading02.gif" width="260" height="260" />  
 </p>
