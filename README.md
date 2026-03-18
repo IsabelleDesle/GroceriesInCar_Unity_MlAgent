@@ -21,7 +21,7 @@ AssetStore:
 - https://assetstore.unity.com/packages/3d/environments/simplepoly-city-low-poly-assets-58899
 - https://assetstore.unity.com/packages/tools/camera/free-fly-camera-140739
 
-## 👁️ What Does It Look Like?
+
 <p float="left">
-  <img src="https://github.com/IsabelleDesle/GroceriesInCar_Unity_MlAgent/main/unityLoadingCar.gif" width="200" height="400" />  
+  <img src="https://raw.githubusercontent.com/IsabelleDesle/GroceriesInCar_Unity_MlAgent/main/unityLoadingCar.gif" width="200" height="400" />  
 </p>
