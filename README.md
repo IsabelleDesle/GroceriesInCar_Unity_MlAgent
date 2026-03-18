@@ -23,5 +23,5 @@ AssetStore:
 
 
 <p float="left">
-  <img src="https://raw.githubusercontent.com/IsabelleDesle/GroceriesInCar_Unity_MlAgent/main/unityLoadingCar.gif" width="400" height="400" />  
+  <img src="https://raw.githubusercontent.com/IsabelleDesle/GroceriesInCar_Unity_MlAgent/main/unityLoadingCar.gif" width="1200" height="400" />  
 </p>
