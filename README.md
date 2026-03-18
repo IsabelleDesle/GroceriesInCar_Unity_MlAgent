@@ -23,7 +23,7 @@ AssetStore:
 
 
 <p float="left">
-  <img src="https://raw.githubusercontent.com/IsabelleDesle/GroceriesInCar_Unity_MlAgent/main/loading01.gif" width="360" height="180" />  
-  <img src="https://raw.githubusercontent.com/IsabelleDesle/GroceriesInCar_Unity_MlAgent/main/loading02.gif" width="360" height="180" />  
-  <img src="https://raw.githubusercontent.com/IsabelleDesle/GroceriesInCar_Unity_MlAgent/main/loading_gif03.gif" width="360" height="180" />  
+  <img src="https://raw.githubusercontent.com/IsabelleDesle/GroceriesInCar_Unity_MlAgent/main/loading01.gif" width="320" height="160" />  
+  <img src="https://raw.githubusercontent.com/IsabelleDesle/GroceriesInCar_Unity_MlAgent/main/loading02.gif" width="320" height="160" />  
+  <img src="https://raw.githubusercontent.com/IsabelleDesle/GroceriesInCar_Unity_MlAgent/main/loading_gif03.gif" width="320" height="160" />  
 </p>
