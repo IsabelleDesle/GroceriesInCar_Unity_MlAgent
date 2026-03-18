@@ -1,4 +1,4 @@
-Load a car with groceries for 2 destinations in the most efficient way using Reinforcement Learning ML agent Toolkit of Unity.
+# <p align="center"> Load a car with groceries for 2 destinations in the most efficient way using Reinforcement Learning ML agent Toolkit of Unity</p>
 
 Inspector for the Agent with slider to select 1 up until 4 groceries, i.e. blocks.
 The 2 destinations are defined by the area color.
@@ -20,3 +20,7 @@ AssetStore:
 
 - https://assetstore.unity.com/packages/3d/environments/simplepoly-city-low-poly-assets-58899
 - https://assetstore.unity.com/packages/tools/camera/free-fly-camera-140739
+
+<p float="left">
+  <img src="https://github.com/IsabelleDesle/GroceriesInCar_Unity_MlAgent/unityLoadingCar.gif" width="200" height="400" />  
+</p>
